@@ -8,7 +8,7 @@ namespace Automaten.Products.Admin //Admin and Customer: same solution but diffe
 {
     public class Program
     {
-
+        
 
         static void Main(string[] args)
 
@@ -16,6 +16,8 @@ namespace Automaten.Products.Admin //Admin and Customer: same solution but diffe
             ViewForAdmin.DisplayAdminSelection();
             //let the admin empty the vendingmachine for money
             Money.EmptyVendingMachine();
+            //Let the admin push in the money
+            Back.InsertMoney();
             //Let the admin see the amount of each product on stack + let the admin push new products to the lists
             ListAdmin.Amounts();
         }

@@ -31,7 +31,7 @@ namespace Automaten.Products.Admin //Admin and Customer: same solution but diffe
             Console.WriteLine(Soda.Count);
             Console.WriteLine(Water.Count);
             Console.WriteLine(Candy.Count); */
-
+          
 
         }
 
