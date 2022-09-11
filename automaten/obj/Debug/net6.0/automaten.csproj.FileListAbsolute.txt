@@ -1,0 +1,15 @@
+C:\Users\45222\Desktop\nyoop\automaten\automaten\bin\Debug\net6.0\automaten.exe
+C:\Users\45222\Desktop\nyoop\automaten\automaten\bin\Debug\net6.0\automaten.deps.json
+C:\Users\45222\Desktop\nyoop\automaten\automaten\bin\Debug\net6.0\automaten.runtimeconfig.json
+C:\Users\45222\Desktop\nyoop\automaten\automaten\bin\Debug\net6.0\automaten.dll
+C:\Users\45222\Desktop\nyoop\automaten\automaten\bin\Debug\net6.0\automaten.pdb
+C:\Users\45222\Desktop\nyoop\automaten\automaten\obj\Debug\net6.0\automaten.csproj.AssemblyReference.cache
+C:\Users\45222\Desktop\nyoop\automaten\automaten\obj\Debug\net6.0\automaten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45222\Desktop\nyoop\automaten\automaten\obj\Debug\net6.0\automaten.AssemblyInfoInputs.cache
+C:\Users\45222\Desktop\nyoop\automaten\automaten\obj\Debug\net6.0\automaten.AssemblyInfo.cs
+C:\Users\45222\Desktop\nyoop\automaten\automaten\obj\Debug\net6.0\automaten.csproj.CoreCompileInputs.cache
+C:\Users\45222\Desktop\nyoop\automaten\automaten\obj\Debug\net6.0\automaten.dll
+C:\Users\45222\Desktop\nyoop\automaten\automaten\obj\Debug\net6.0\refint\automaten.dll
+C:\Users\45222\Desktop\nyoop\automaten\automaten\obj\Debug\net6.0\automaten.pdb
+C:\Users\45222\Desktop\nyoop\automaten\automaten\obj\Debug\net6.0\automaten.genruntimeconfig.cache
+C:\Users\45222\Desktop\nyoop\automaten\automaten\obj\Debug\net6.0\ref\automaten.dll
