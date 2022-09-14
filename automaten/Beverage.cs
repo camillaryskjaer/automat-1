@@ -21,6 +21,8 @@ namespace Automaten.Products //Admin and Customer: same solution but different p
             this.flavor = flavor;
         }
 
+
+//Denne metode er ikke god. Du blkander logik og UI. Alt der har noget at gøre med konsolvinduet hører til i UI laget. Du har i din superklasse overskrevet toString metoden, hvorofr bruger du ikke denne?
         //overrides
         protected internal override void GetProperties()
         {
