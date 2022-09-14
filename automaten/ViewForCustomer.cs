@@ -53,6 +53,8 @@ namespace Automaten.Products //Admin and Customer: same solution but different p
                     Console.WriteLine("En pose matadormix koster 16 kr");
 
                     //method to remove product from the queue, and add it to new list
+                  
+                  //HVoir kommer CandyQueue fra?
                     foreach (Candy p in CandyQueue)
                     {
                         candydelivered.Add(p);
@@ -88,6 +90,7 @@ namespace Automaten.Products //Admin and Customer: same solution but different p
                         Console.WriteLine("Der er udsolgt");
                     }
 
+                  //HVad er det du laver her?
                      static void Change() => Console.WriteLine("Du får penge tilbage");
             }
 
