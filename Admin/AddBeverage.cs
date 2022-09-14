@@ -13,6 +13,8 @@ namespace Automaten.Products.Admin  //Admin and Customer: same solution but diff
     {
         //Lists are Queue due to FIFO.
         // coca cola, 22 kr , original taste
+        
+        //HVorfor gør du ikke dette i en løkke---- = Redundans og det vil vi ikke
         Product cola1 = new Beverage("Coca Cola", 22, "Original");
         Product cola2 = new Beverage("Coca Cola", 22, "Original");
         Product cola3 = new Beverage("Coca Cola", 22, "Original");
